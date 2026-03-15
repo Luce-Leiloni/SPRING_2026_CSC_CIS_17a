@@ -21,7 +21,7 @@ int main( int argc, char **argv ) {
 
     //declare variables
 
-    //map/prcess the inputs -> outputs
+    //map/process the inputs -> outputs
 
     //display input/outputs
     
