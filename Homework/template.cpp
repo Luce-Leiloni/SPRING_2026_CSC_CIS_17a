@@ -6,6 +6,7 @@ Purpose: template to be used for all future homework, labs, exams, projects
 
 //system libraries
 #include <iostream> //input/output library
+#include <iomanip> //formatting library
 using namespace std; //using namepace standard
 
 //user libaries
