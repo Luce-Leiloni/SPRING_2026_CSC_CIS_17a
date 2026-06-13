@@ -3,7 +3,7 @@ Author: Lucy Blanks
 Date: 6/12/2026
 Purpose: Sudoku 9x9
 
-//v.6 ~ Expand to full board
+//v.1 ~ Expand to full board
         change all instances of 6 to 9                                 - DONE!             
         change all instances of "mini-sudoku" to "sudoku"              - DONE!
         extend the board to match 9x9                                  - DONE!
