@@ -3,8 +3,7 @@ Author: Lucy Blanks
 Date: 6/14/2026
 Purpose: Sudoku 9x9
 
-//v.3 ~ difficulty implimentation
-        change all instances of 6 to 9                                 - DONE!                                          
+//v.3 ~ difficulty implimentation                                      
         create protected class members                                 - DONE!
         create difficulty function and amtZeroes int                   - DONE!
         impliment throwing in save and load                            - DONE!
